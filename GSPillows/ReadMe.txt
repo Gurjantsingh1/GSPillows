@@ -44,5 +44,5 @@ Seeded the Data.
 2022/02/25
 06:PM
 In Part 6 and 7, added the methods and views in the project.
-Edited the Index, Privacy file
+Edited the Index, Privacy file.
 Added Data to the README file and finally submitted the assignment
